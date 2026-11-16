@@ -1,1 +1,1 @@
-# Coffee-Shop-Sales
+An interactive **Coffee Shop Sales Dashboard** built in Power BI to analyze sales performance, customer footfall, product trends, order distribution, and store performance through dynamic visualizations and interactive slicers.
